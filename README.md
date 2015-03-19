@@ -5,7 +5,7 @@ A lightweight set of jQuery tools.
 - Version: 1.0
 - A lightweight expandable menu for mobile.
 
-## qMenu
+## qToggle
 - Version: 1.0
 - A lightweight toggler button which can target elements
 
